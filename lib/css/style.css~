@@ -229,6 +229,7 @@ body {
 
 .align_center{
 	text-align:center;
+	
 }
 
 .padding_bottom{
@@ -530,10 +531,12 @@ a#logo {
 
 #footer {
 	width:90%;
+	
 	padding-left: 5%;
 	padding-right: 5%;
 	padding-top:40px;
 	padding-bottom:40px;
+	color:#000;
 	background-color:#0f1219;
 	position: relative;
 	z-index:1000;
@@ -623,7 +626,7 @@ span.slider_text1{
 	font-family: 'Oswald', sans-serif;
 	font-weight: 300;font-size:18px;
 	line-height:18px;
-	color:#fff;
+	color:#000;
 	margin-bottom:20px;
 	clear:both;
 	display:block;
@@ -637,7 +640,7 @@ span.slider_text2{
 	letter-spacing:1.5px;
 	text-transform: uppercase;
 	text-align: center;
-	color:#fff;
+	color:#000;
 	margin-bottom:20px;
 	border-top:2px solid #fff;
 	border-bottom:2px solid #fff;
