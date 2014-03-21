@@ -1563,7 +1563,7 @@ span.testimonials_autor{
 	width:100%;
 	z-index:1;
 	background: url(../images/photos/5.jpg);
-	background-position: center top;
+	background-position: top center;
     background-repeat: no-repeat;
 	background-attachment: fixed;
     background-size: cover;
