@@ -1,0 +1,1055 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">  
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />    
+    <title>Excursion à Paris - Technique d'Expression - Licence Pro DA2I</title>
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="lib/images/favicon.png">
+    <meta name="description" content="">
+    <meta name="author" content="">
+        
+	<!-- 1140px Grid styles for IE -->
+	<!--[if lte IE 9]><link rel="stylesheet" href="lib/css/ie.css" type="text/css" media="screen" /><![endif]-->
+
+    <!-- CSS concatenated and minified via ant build script-->
+    <link rel="stylesheet" href="lib/css/style.css">
+    <link rel="stylesheet" href="lib/css/font-awesome.css">
+    <link rel="stylesheet" href="lib/css/isotope.css">
+    <link rel="stylesheet" href="lib/js/prettyPhoto/css/prettyPhoto.css">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,600,300,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <!-- end CSS-->
+    
+    <script src="lib/js/jquery-1.10.2.min.js"></script>
+    <script src="lib/js/jquery-migrate-1.2.1.js"></script>
+    
+</head>
+
+<body>
+
+    <!--begin container -->
+    <div id="container">
+    
+        <!--begin header_wrapper -->
+        <header id="header_wrapper">
+            
+            <!--begin header -->    
+            <div id="header" class="clearfix">
+                
+                <!--begin row -->
+                <div class="row">
+                    
+                    <!--begin twelvecol -->
+                    <div class="twelvecol">
+                    
+                        <!--begin logo             
+                        <a href="index-2.html" id="logo">Thirteen</a>
+                        end logo -->
+                        
+                        <!--begin nav -->
+                        <ul id="nav">
+                            <li>
+                            	<a href="#container">Accueil</a>
+                            </li>
+                            <li>
+                            	<a href="#services">Présentation</a>
+                            </li>
+                            <li>
+                            	<a href="#team">Les membres</a>
+                            </li>
+                            <!--<li>
+                            	<a href="#about">About Us</a>
+                            </li>
+                            <li>
+                            	<a href="#portfolio_wrapper">Portfolio</a>
+                            </li>
+                            <li class="last">
+                            	<a href="#contact">Contact</a>
+                            </li>-->
+                        </ul>
+                        <!--end nav -->
+                                                
+                    </div>
+                    <!--end twelvecol -->
+                
+                </div>
+                <!--end row -->
+                    
+            </div>
+            <!--end header -->
+            
+        </header>
+        <!--end header_wrapper -->
+        
+        <!--begin home section -->
+        <section id="home">
+        
+        	<div class="home_box">
+                                        
+                <span class="slider_text1">Technique d'Expression - Licence Professionnelle DA2I</span>
+                
+                <span class="slider_text2">Excursion à Paris</span>
+                
+                <!--<a href="#" class="slider_text3">Learn More</a>-->
+            
+            </div>
+                        
+        </section>
+        <!--end home section -->
+        
+        <!--begin info_white_wrapper -->
+        <div id="services" class="info_white_wrapper">
+            
+            <!--begin info_white -->
+            <div class="info_white">
+                <h3>Le but ce projet ?</h3>
+                <h4>Notre projet consistait à organiser une journée dans une autre ville afin de sortir du cadre des études et de Lille.</h4>
+            </div>
+            <!--end info_white -->
+                
+        </div>
+        <!--end info_white_wrapper -->
+ 
+        <!--begin nine_section_wrapper -->
+        <section class="nine_section_wrapper">
+            
+            <!--begin nine_section -->
+            <div class="nine_section">
+           
+                <!--begin row -->
+                <div class="row">
+                
+                    <!--begin twelvecol -->
+                    <div class="twelvecol">
+                        
+                        <!--begin threecol -->
+                        <div class="threecol">
+                            
+                            <!--begin services_homepage_item -->
+                            <div class="services_homepage_item">
+                                <div class="icon_wrapper">
+                                    <div class="icon_box">
+                                        <i class="fa fa-heart icon-8x"></i>
+                                        <span class="services_arrow"></span>
+                                    </div>
+                                </div>
+                                <h2>Equipe</h2>
+                                <p>Travailler sur un projet en équipe autre qu’un projet informatique, et donc assimiler les étapes de réalisation comme déterminer les objectifs, créer un planning, estimer les besoins et surmonter des difficultés éventuelles.</p>
+                            </div>
+                            <!--end services_homepage_item -->
+                            
+                        </div>
+                        <!--end threecol -->
+                        
+                        <!--begin threecol -->
+                        <div class="threecol">
+                            
+                            <!--begin services_homepage_item -->
+                            <div class="services_homepage_item">
+                                <div class="icon_wrapper">
+                                    <div class="icon_box">
+                                        <i class="fa fa-laptop icon-8x"></i>
+                                        <span class="services_arrow"></span>
+                                    </div>
+                                </div>
+                                <h2>Informatique</h2>
+                                <p>Pour ce projet, nous devions choisir un sujet qui n'a aucun rapport avec le domaine de prédilection de notre formation, l'informatique</p>
+                            </div>
+                            <!--end services_homepage_item -->
+                            
+                        </div>
+                        <!--end threecol -->
+                        
+                        <!--begin threecol -->
+                        <div class="threecol">
+                            
+                            <!--begin services_homepage_item -->
+                            <div class="services_homepage_item">
+                                <div class="icon_wrapper">
+                                    <div class="icon_box">
+                                        <i class="fa fa-cog icon-8x"></i>
+                                        <span class="services_arrow"></span>
+                                    </div>
+                                </div>
+                                <h2>Réflexion</h2>
+                                <p>Fournir une base de réflexion aux étudiants de la Licence pro DA2I dans le but de réaliser un projet similaire.</p>
+                            </div>
+                            <!--end services_homepage_item -->
+                            
+                        </div>
+                        <!--end threecol -->
+                        
+                        <!--begin threecol -->
+                        <div class="threecol last">
+                            
+                            <!--begin services_homepage_item -->
+                            <div class="services_homepage_item">
+                                <div class="icon_wrapper">
+                                    <div class="icon_box">
+                                        <i class="fa fa-comments icon-8x"></i>
+                                        <span class="services_arrow"></span>
+                                    </div>
+                                </div>
+                                <h2>Communication</h2>
+                                <p>Ce projet est avant tout un projet de technique d'expression.</p>
+                            </div>
+                            <!--end services_homepage_item -->
+                            
+                        </div>
+                        <!--end threecol -->
+                        
+                    </div>
+                    <!--end twelvecol -->
+                    
+                </div>
+                <!--end row -->
+                
+            </div>
+            <!--end nine_section -->
+             
+        </section>
+        <!--end nine_section -->
+        
+        <!-- begin showcase --> 
+        
+        <!-- END SHOWCASE -->
+        <!--begin info_white_wrapper -->
+        <div id="team" class="info_white_wrapper">
+            
+            <!--begin info_white -->
+            <div class="info_white">
+                <h3>Les membres</h3>
+                <h4>Pour réaliser ce projet le groupe été composé de trois personnes: </h4>
+            </div>
+            <!--end info_white -->
+                
+        </div>
+        <!--end info_white_wrapper -->
+
+        <!--begin team_wrapper -->
+        <section class="team_wrapper align_center">
+            
+            <!--begin team_section -->
+            <div class="team_section">            	
+                    
+                <!--begin row -->
+                <div class="row">
+                    
+                    <!--begin twelvecol -->
+                    <div class="twelvecol">
+                        
+                        <!--begin threecol -->
+                        <div class="threecol">
+                             
+                            <!--begin team_item -->
+                            <div class="team_item">
+                        
+                        		<!--begin team_picture -->
+                    			<div class="view_team view-second">
+                                    <img src="lib/images/photos/team_1.jpg" alt="BOULANGER Constantin">
+                                    <span class="mask">
+                                        <span class="zoom"></span>
+                                    </span>
+                                </div>
+                                <!--end team_picture -->
+                                
+                                <!--begin team_description -->
+                                <div class="team_description">
+                                    <h3>BOULANGER Constantin - <span>Bout-en-train</span></h3>
+                                    <p class="team_text">Passionné d'informatique depuis le collège. Il aime aussi la musique, jouer de la guitare et les jeux vidéo</p>
+                                </div>
+                                <!--end team_description -->
+                                
+                                <!--begin team_social_icons -->
+                                <ul class="team_social">
+                                    <li class="first"><a href="http://twitter.com/bakerlive"><i class="fa fa-twitter"></i></a></li>
+                                    <li class="last"><a href="http://facebook.com/Constantin.Sinepel"><i class="fa fa-facebook"></i></a></li>
+                                </ul>
+                                <!--end team_social_icons -->
+                                
+                            </div>
+                            <!--end team_item -->
+                            
+                        </div>
+                        <!--end threecol -->
+                                                                     
+                        <!--begin threecol -->
+                        <div class="threecol">
+                             
+                            <!--begin team_item -->
+                            <div class="team_item">
+                                
+                        		<!--begin team_picture -->
+                    			<div class="view_team view-second">
+                                    <img src="lib/images/photos/team_3.jpg" alt="LEFEVERE Romain">
+                                    <span class="mask">
+                                        <span class="zoom"></span>
+                                    </span>
+                                </div>
+                                <!--end team_picture -->
+                                
+                                <!--begin team_description -->
+                                <div class="team_description">
+                                    <h3>LEFEVERE Romain - <span>Humoriste</span></h3>
+                                    <p class="team_text">Eodem modo typisum, quistys nunc nobis videntur etsum parum clarits, solemnes fiant din futurum.</p>
+                                </div>
+                                <!--end team_description -->
+                                
+                                <!--begin team_social_icons 
+                                <ul class="team_social">
+                                    <li class="first"><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li class="last"><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                </ul>
+                                end team_social_icons -->
+                                
+                            </div>
+                            <!--end team_item -->
+                            
+                        </div>
+                        <!--end threecol -->
+                        
+                        <!--begin threecol -->
+                        <div class="threecol last">
+                            
+                            <!--begin team_item -->
+                            <div class="team_item">
+                                
+                        		<!--begin team_picture -->
+                    			<div class="view_team view-second">
+                                    <img src="lib/images/photos/team_4.jpg" alt="DELVALLÉE Adrien">
+                                    <span class="mask">
+                                        <span class="zoom"></span>
+                                    </span>
+                                </div>
+                                <!--end team_picture -->
+                                
+                                <!--begin team_description -->
+                                <div class="team_description">
+                                    <h3>DELVALLÉE Adrien - <span>REFLECHIR</span></h3>
+                                    <p class="team_text">Eodem modo typisum, quistys nunc nobis videntur etsum parum clarits, solemnes fiant din futurum.</p>
+                                </div>
+                                <!--end team_description -->
+                                
+                                <!--begin team_social_icons 
+                                <ul class="team_social">
+                                    <li class="first"><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li class="last"><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                </ul>
+                                end team_social_icons -->
+                                
+                            </div>
+                            <!--end team_item -->
+                            
+                        </div>
+                        <!--end threecol -->
+                            
+                    </div>
+                    <!--end twelvecol -->
+                    
+                </div>
+                <!--end row -->
+                
+            </div>
+            <!--end team_section -->
+        
+        </section>
+        <!--end team_wrapper -->
+     
+        <!-- begin fun_facts_wrapper -->
+        <div class="fun_facts_wrapper">
+        
+        	<!-- begin fun_facts_box -->
+            <div class="fun_facts_box">
+                
+                <!--begin row -->
+                <div class="row">
+                    
+                    <!--begin twelvecol -->
+                    <div class="twelvecol">
+                    
+                        <span class="fun_facts">Some interesting facts about our agency</span>
+                        
+                        <!--begin fun_facts_item -->
+                        <div class="fun_facts_item">
+                            <div class="fun_facts_icon"></div>
+                            <i class="fa fa-laptop fa-3x"></i><br>
+                        	<span>450</span>
+                            <h3>Modern Websites</h3>
+                        </div>
+                        <!--end fun_facts_item -->
+                        
+                        <!--begin fun_facts_item -->
+                        <div class="fun_facts_item">
+                            <div class="fun_facts_icon"></div>
+                        	<i class="fa fa-heart fa-3x white"></i><br>
+                            <span>175</span>
+                            <h3>Happy Clients</h3>
+                        </div>
+                        <!--end fun_facts_item -->
+                        
+                        <!--begin fun_facts_item -->
+                        <div class="fun_facts_item">
+                            <div class="fun_facts_icon"></div>
+                        	<i class="fa fa-code fa-3x white"></i><br>
+                        	<span>329</span>
+                            <h3>Completed Projects</h3>
+                        </div>
+                        <!--end fun_facts_item -->
+                        
+                        <!--begin fun_facts_item -->
+                        <div class="fun_facts_item">
+                            <div class="fun_facts_icon"></div>
+                        	<i class="fa fa-umbrella fa-3x white"></i><br>
+                        	<span>195</span>
+                            <h3>Design Awards</h3>
+                        </div>
+                        <!--end fun_facts_item -->
+                        
+                        <!--begin fun_facts_item -->
+                        <div class="fun_facts_item last">
+                            <div class="fun_facts_icon"></div>
+                        	<i class="fa fa-comments fa-3x white"></i><br>
+                        	<span>24/7</span>
+                            <h3>Fast Support</h3>
+                        </div>
+                        <!--end fun_facts_item -->
+                        
+                    </div>
+                    <!--end twelvecol -->
+                    
+                </div>
+                <!--end row -->
+                
+            </div>
+            <!-- end fun_facts_box -->
+            
+        </div>
+        <!-- end fun_facts_wrapper -->
+
+        <!--begin info_white_wrapper -->
+        <div id="about" class="info_white_wrapper">
+            
+            <!--begin info_white -->
+            <div class="info_white">
+                <h3>ABOUT OUR COMPANY</h3>
+                <h4>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form,<br>by injected humour, or randomised words which don't look even slightly believable.</h4>
+            </div>
+            <!--end info_white -->
+                
+        </div>
+        <!--end info_white_wrapper -->
+
+        <!--begin nine_section_wrapper -->
+        <section class="nine_section_wrapper">
+            
+            <!--begin nine_section -->
+            <div class="nine_section">
+              
+                <!--begin row -->
+                <div class="row">
+                    
+                    <!--begin twelvecol -->
+                    <div class="twelvecol">
+                    
+                        <!--begin sixcol -->
+                        <div class="sixcol">
+                            
+                            <h4>We want to make word beautiful. You can use our love &amp; passion!</h4>
+                            
+                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look believable. If you are going to use a passage of Lorem Ipsum in the middle of text.</p>
+                            
+                            <!--begin quotes -->
+                            <p>
+                                <i class="fa fa-quote-left fa-3x pull-left grey"></i>
+                                <span>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum it has been the industry's standard dummy texts ever since the 1500s, when an unknown printer took a galley of type scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</span>
+                            </p>
+                            <!--end quotes --> 
+                            
+                            <!--begin sixcol -->
+                            <div class="sixcol">
+                            
+                                <ul>
+                                    <li><i class="fa fa-check grey"></i> &nbsp; Sed ut perspiciatis unde omnis iste.</li>
+                                    <li><i class="fa fa-check grey"></i> &nbsp; Nemo enim ipsam voluptatem quia.</li>
+                                    <li><i class="fa fa-check grey"></i> &nbsp; Solemnes fiat din futurum netsum.</li>
+                                </ul>
+                                                               
+                            </div>
+                            <!--end sixcol -->
+                            
+                            <!--begin sixcol -->
+                            <div class="sixcol last">
+                            
+                                <ul>
+                                    <li><i class="fa fa-check grey"></i> &nbsp; Sed ut perspiciatis unde omnis iste.</li>
+                                    <li><i class="fa fa-check grey"></i> &nbsp; Nemo enim ipsam voluptatem quia.</li>
+                                    <li><i class="fa fa-check grey"></i> &nbsp; Paris clarits, laris netsum magnas.</li>
+                                </ul>
+                                                               
+                            </div>
+                            <!--end sixcol -->
+                            
+                        </div>
+                        <!--end sixcol -->
+                        
+                        <!--begin sixcol -->
+                        <div class="sixcol last">
+                            
+                            <img src="lib/images/laptop.png" alt="picture">
+                                                                   
+                        </div>
+                        <!--end sixcol -->
+                         
+                    </div>
+                    <!--end twelvecol -->
+                    
+                </div>
+                <!--end row -->
+                
+            </div>
+            <!--end nine_section -->
+            
+        </section>
+        <!--end nine_section -->
+    
+        <!-- begin testimonials_wrapper -->
+        <div class="testimonials_wrapper">
+        
+            <div class="testimonials_box">
+                
+                <!-- begin row -->
+                <div class="row">
+                
+                	<!-- begin twelvecol -->
+                	<div class="twelvecol">
+                                                                           
+                        <ul class="rslides" id="slider4">
+                            
+                            <li>
+                              <!-- begin testimonial_item -->
+                              <div class="testimonial_item">
+                                    <img src="lib/images/photos/testimonials1.jpg" alt="Picture" class="testimonials_pic">
+                                    <span class="testimonials_text">"Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition."</span>
+                                    <span class="testimonials_autor">- Christine Williams -</span>
+                                </div>
+                                <!-- end testimonial_item -->
+                            </li>
+                            
+                            <li>
+                              <!-- begin testimonial_item -->
+                              <div class="testimonial_item">
+                                    <img src="lib/images/photos/testimonials2.jpg" alt="Picture" class="testimonials_pic">
+                                    <span class="testimonials_text">"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it."</span>
+                                    <span class="testimonials_autor">- Johanna Van Smith -</span>
+                                </div>
+                                <!-- end testimonial_item -->
+                            </li>
+                            
+                            <li>
+                              <!-- begin testimonial_item -->
+                              <div class="testimonial_item">
+                                    <img src="lib/images/photos/testimonials3.jpg" alt="Picture" class="testimonials_pic">
+                                    <span class="testimonials_text">"Again, you can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down."</span>
+                                    <span class="testimonials_autor">- Alice Johansons -</span>
+                                </div>
+                                <!-- end testimonial_item -->
+                            </li>
+                            
+                        </ul>
+                                                                    
+                    </div>
+                	<!-- end twelvecol -->
+                    
+                </div>
+                <!-- end row -->
+                
+            </div>
+            <!-- end testimonials_box -->
+            
+        </div>
+        <!-- end testimonials_wrapper -->
+        
+        <!--begin info_white_wrapper -->
+        <div id="portfolio_wrapper" class="info_white_wrapper">
+            
+            <!--begin info_white -->
+            <div class="info_white">
+                <h3>Our recent work</h3>
+                <h4>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form,<br>by injected humour, or randomised words which don't look even slightly believable.</h4>
+            </div>
+            <!--end info_white -->
+                
+        </div>
+        <!--end info_white_wrapper -->
+
+        <!--begin portfolio section -->
+        <section id="portfolio">
+                   
+            <!--begin isotope -->
+            <div class="isotope">
+            
+                <!--begin portfolio filter -->
+                <ul id="filter" class="option-set clearfix">
+                    <li data-filter="*" class="selected"><a href="#">All</a></li>
+                    <li data-filter=".responsive"><a href="#">Responsive</a></li>
+                    <li data-filter=".mobile"><a href="#">Mobile</a></li>
+                    <li data-filter=".branding"><a href="#">Branding</a></li>
+                </ul>
+                <!--end portfolio filter -->
+                     
+                <!--begin portfolio_list_full -->   
+                <ul id="list" class="portfolio_list_full">
+                    
+                    <!--begin portofolio_item_4col_full -->
+                    <li class="portofolio_item_4col_full branding responsive">
+                        
+                        <div class="view view-first">
+                            <a href="lib/images/photos/work1.jpg" class="prettyPhoto[gallery1]">
+                                <img src="lib/images/photos/work1.jpg" alt="Title Goes Here">
+                                <span class="mask">
+                                    <span class="zoom"></span>
+                                </span>
+                            </a>
+                        </div>
+                    
+                        <div class="portfolio_details_full">
+                            <h2>Praesent Nets Enimusti</h2>
+                            <span>Art Design / Illustration</span>
+                        </div>
+                        
+                        <div class="portfolio_icon">
+                        	<span><i class="fa fa-camera-retro"></i></span>
+                        </div>
+                        
+                    </li>
+                    <!--end portofolio_item_4col_full -->
+                    
+                    <!--begin portofolio_item_4col_full -->
+                    <li class="portofolio_item_4col_full branding mobile">
+                        
+                        <div class="view view-first">
+                            <a href="lib/images/photos/work3.jpg" class="prettyPhoto[gallery1]">
+                                <img src="lib/images/photos/work3.jpg" alt="Title Goes Here">
+                                <span class="mask">
+                                    <span class="zoom"></span>
+                                </span>
+                            </a>
+                        </div>
+                    
+                        <div class="portfolio_details_full">
+                            <h2>Suspendits Commodo</h2>
+                            <span>Website Design</span>
+                        </div>
+                        
+                        <div class="portfolio_icon">
+                        	<span><i class="fa fa-edit"></i></span>
+                        </div>
+                        
+                    </li>
+                    <!--end portofolio_item_4col_full -->
+                    
+                    <!--begin portofolio_item_4col_full -->
+                    <li class="portofolio_item_4col_full mobile branding">
+                        
+                        <div class="view view-first">
+                            <a href="lib/images/photos/work2.jpg" class="prettyPhoto[gallery1]">
+                                <img src="lib/images/photos/work2.jpg" alt="Title Goes Here">
+                                <span class="mask">
+                                    <span class="zoom"></span>
+                                </span>
+                            </a>
+                        </div>
+                    
+                        <div class="portfolio_details_full">
+                            <h2>Pretiums Sem Lacust</h2>
+                            <span>Wordpress / Php</span>
+                        </div>
+                        
+                        <div class="portfolio_icon">
+                        	<span><i class="fa fa-list-alt"></i></span>
+                        </div>
+                        
+                    </li>
+                    <!--end portofolio_item_4col_full -->
+                     
+                    <!--begin portofolio_item_4col_full -->
+                    <li class="portofolio_item_4col_full responsive">
+                        
+                        <div class="view view-first">
+                            <a href="lib/images/photos/work4.jpg" class="prettyPhoto[gallery1]">
+                                <img src="lib/images/photos/work4.jpg" alt="Title Goes Here">
+                                <span class="mask">
+                                    <span class="zoom"></span>
+                                </span>
+                            </a>
+                        </div>
+                    
+                        <div class="portfolio_details_full">
+                            <h2>Etims Dicti Netus</h2>
+                            <span>Web Development</span>
+                        </div>
+                        
+                        <div class="portfolio_icon">
+                        	<span><i class="fa fa-headphones"></i></span>
+                        </div>
+                        
+                    </li>
+                    <!--end portofolio_item_4col_full -->
+                    
+                    <!--begin portofolio_item_4col_full -->
+                    <li class="portofolio_item_4col_full responsive branding mobile">
+                        
+                        <div class="view view-first">
+                            <a href="lib/images/photos/work10.jpg" class="prettyPhoto[gallery1]">
+                                <img src="lib/images/photos/work10.jpg" alt="Title Goes Here">
+                                <span class="mask">
+                                    <span class="zoom"></span>
+                                </span>
+                            </a>
+                        </div>
+                    
+                        <div class="portfolio_details_full">
+                            <h2>Fusce Treis Accumsan</h2>
+                            <span>Design / Illustration</span>
+                        </div>
+                        
+                        <div class="portfolio_icon">
+                        	<span><i class="fa fa-headphones"></i></span>
+                        </div>
+                        
+                    </li>
+                    <!--end portofolio_item_4col_full -->
+                    
+                    <!--begin portofolio_item_4col_full -->
+                    <li class="portofolio_item_4col_full">
+                        
+                        <div class="view view-first">
+                            <a href="lib/images/photos/work6.jpg" class="prettyPhoto[gallery1]">
+                                <img src="lib/images/photos/work6.jpg" alt="Title Goes Here">
+                                <span class="mask">
+                                    <span class="zoom"></span>
+                                </span>
+                            </a>
+                        </div>
+                    
+                        <div class="portfolio_details_full">
+                            <h2>Imperdietis massa</h2>
+                            <span>Phototshop / Graphics</span>
+                        </div>
+                        
+                        <div class="portfolio_icon">
+                        	<span><i class="fa fa-camera-retro"></i></span>
+                        </div>
+                        
+                    </li>
+                    <!--end portofolio_item_4col_full -->
+                    
+                    <!--begin portofolio_item_4col_full -->
+                    <li class="portofolio_item_4col_full responsive mobile branding">
+                        
+                        <div class="view view-first">
+                            <a href="lib/images/photos/work11.jpg" class="prettyPhoto[gallery1]">
+                                <img src="lib/images/photos/work11.jpg" alt="Title Goes Here">
+                                <span class="mask">
+                                    <span class="zoom"></span>
+                                </span>
+                            </a>
+                        </div>
+                    
+                        <div class="portfolio_details_full">
+                            <h2>Felis Dictum Eget</h2>
+                            <span>Webdesign Elements</span>
+                        </div>
+                        
+                        <div class="portfolio_icon">
+                        	<span><i class="fa fa-edit"></i></span>
+                        </div>
+                        
+                    </li>
+                    <!--end portofolio_item_4col_full -->
+                     
+                    <!--begin portofolio_item_4col_full -->
+                    <li class="portofolio_item_4col_full responsive mobile branding">
+                        
+                        <div class="view view-first">
+                            <a href="lib/images/photos/work9.jpg" class="prettyPhoto[gallery1]">
+                                <img src="lib/images/photos/work9.jpg" alt="Title Goes Here">
+                                <span class="mask">
+                                    <span class="zoom"></span>
+                                </span>
+                            </a>
+                        </div>
+                    
+                        <div class="portfolio_details_full">
+                            <h2>Mauristri congueti</h2>
+                            <span>Logo Design</span>
+                        </div>
+                        
+                        <div class="portfolio_icon">
+                        	<span><i class="fa fa-list-alt"></i></span>
+                        </div>
+                        
+                    </li>
+                    <!--end portofolio_item_4col_full -->
+                                    
+                </ul>
+                <!--end portfolio_list_full -->
+                
+            </div>
+            <!--end isotope -->
+                
+        </section>
+        <!--end portfolio section -->
+
+        <!--begin contact_section -->
+        <section id="contact" class="contact_section">
+            
+            <!--begin info_transparent -->
+            <div class="info_transparent">
+                <h3>CONTACT US</h3>
+                <h4>Got a question or enquiry? Looking to get a quote?<br>Then feel free to contact us today about your new project!</h4>
+            </div>
+            <!--end info_transparent -->
+            
+            <!--begin contact_wrapper -->
+            <div class="contact_wrapper">
+                
+                <!--begin row -->
+                <div class="row">
+                    
+                    <!--begin twelvecol -->
+                    <div class="twelvecol">
+                        
+                            <!--begin contact_form -->
+                            <div class="contact_form">
+                    			
+                                <!--begin contact form -->
+                                <form id="contact-form" class="contact" action="http://webdesignpro09.info/tf-thirteen/contact.php" method="post">
+                                    
+                                    <div class="contact_left">
+                                        <input class="contact_input" type="text" required="" name="first_name" placeholder="First Name*" />
+                                        <input class="contact_input" type="text" required="" name="subject" placeholder="Subject*" />
+                                    </div>
+                                    
+                                    <div class="contact_right">
+                                        <input class="contact_input" type="text" required="" name="last_name" placeholder="Last Name*" />
+                                        <input class="contact_input" type="email" required="" name="email" placeholder="Email*" />
+                                    </div>
+                                    
+                                    <div class="contact_full">
+                                        <textarea name="message" placeholder="Message..." rows="2" cols="20"></textarea>
+                                    </div>
+                                
+                                    <input type="submit" value="Send E-mail" id="submit-button" class="contact-submit" />
+                                        
+                                </form>
+                                <!--end contact form -->
+                            
+                            </div>
+                            <!--end contact_form -->
+                        
+                    </div>
+                    <!--end twelvecol -->
+                    
+                </div>
+                <!--end row -->
+                
+            </div>
+            <!--end contact_wrapper -->
+            
+        </section>
+        <!--end contact_section -->
+        
+        <!--begin footer -->
+        <footer id="footer">
+            
+            <!--begin row -->
+            <div class="row">
+                
+                <!--begin twelvecol -->
+                <div class="twelvecol">  
+            
+                    <!--begin social icons -->
+                    <ul class="social">
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-twitter contact-icon-circle"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-pinterest contact-icon-circle"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-github contact-icon-circle"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-tumblr contact-icon-circle"></i>
+                            </a>
+                        </li>
+                        
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-linkedin contact-icon-circle"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-google-plus contact-icon-circle"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-rss fa-1x contact-icon-circle"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-dribbble fa-1x contact-icon-circle"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-dropbox fa-1x contact-icon-circle"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-instagram fa-1x contact-icon-circle"></i>
+                            </a>
+                        </li>
+                    </ul>
+                    <!--end social icons -->
+                    
+                    <div class="footer_line"><span></span></div>
+                    
+                    <!--begin copyright -->            
+                    <p class="copyright">Copyright © 2014 Thirteen. All rights reserved.<br>Designed &amp; developed by <a href="http://themeforest.net/user/bogdan_09/portfolio?ref=bogdan_09" target="_blank">Bogdan</a>.</p>
+                    <!--end copyright -->
+                    
+                </div>
+                <!--end twelvecol -->
+                
+            </div>
+            <!--end row -->
+        
+        </footer>
+        <!--end footer_wrapper -->
+           
+    </div>
+    <!--! end of #container -->
+    
+    <!-- scripts concatenated and minified via ant build script-->
+    <script src="lib/js/modernizr-2.6.1.min.js"></script>
+    <script src="lib/js/conditional.js"></script>
+    <script src="lib/js/prettyPhoto/js/jquery.prettyPhoto.js"></script>
+    <script src="lib/js/jquery.isotope.min.js"></script>
+    <script src="lib/js/script.js"></script>
+    
+    <!-- begin jquery.sticky script-->
+    <script type="text/javascript" src="lib/js/jquery.sticky.js"></script>
+		<script>
+        $(window).load(function(){
+          $("#header_wrapper").sticky({ topSpacing: 0 });
+        });
+    </script>
+    <!-- end jquery.sticky script-->
+  
+    <!-- begin menu scrollTo script-->
+    <script src="lib/js/jquery.scrollTo-min.js"></script>
+    <script type="text/javascript">
+		(function($){
+			$(document).ready(function() {	
+			/* This code is executed after the DOM has been completely loaded */
+				
+				$("#nav li a").click(function(e){
+		
+					var full_url = this.href;
+					var parts = full_url.split("#");
+					var trgt = parts[1];
+					var target_offset = $("#"+trgt).offset();
+					var target_top = target_offset.top;
+					
+					$('html,body').animate({scrollTop:target_top -75}, 1000);
+						return false;
+					
+				});
+						
+			});
+		})(jQuery);
+    </script>
+	<!-- end menu scrollTo script-->
+    
+    <!-- begin menu color script-->
+    <script src="lib/js/jquery.nav.js"></script>
+	<script>
+	$(document).ready(function() {
+		$('#nav').onePageNav({
+		filter: ':not(.external)',
+		scrollThreshold: 0.25
+		});
+	});
+	</script>
+    <!-- end menu color script-->
+    
+    <!-- begin background slideshow script-->
+    <script src="lib/js/jquery.vegas.js"></script>
+    <script>
+	$( function() {
+			$.vegas('slideshow', {
+				backgrounds:[
+					{ src:'lib/images/photos/1.jpg', fade:1500 },
+					{ src:'lib/images/photos/2.jpg', fade:1500 },
+					{ src:'lib/images/photos/3.jpg', fade:1500 }
+				],
+				loading:false
+			})
+		});
+    </script>
+	<!-- end background slideshow script-->
+   
+    <!-- begin slider script-->
+    <script src="lib/js/responsiveslides.min.js"></script>
+  	<script>
+		// You can also use "$(window).load(function() {"
+		$(function () {
+	
+		  // Slideshow 4
+		  $("#slider4, #slider3").responsiveSlides({
+			auto: true,
+			pager: true,
+			nav: true,
+			pause: true,
+			speed: 500,
+			timeout: 9000,
+			namespace: "callbacks",
+			before: function () {
+			  $('.events').append("<li>before event fired.</li>");
+			},
+			after: function () {
+			  $('.events').append("<li>after event fired.</li>");
+			}
+		  });
+	
+		});
+  	</script>
+    <!-- end slider script-->
+    
+    <!--begin placeholder script -->
+    <script src="lib/js/jquery.placeholder.js" type="text/javascript"></script>
+    <script>
+		$(function(){
+			$.placeholder.shim();
+		});
+	</script>
+    <!--end placeholder script -->
+    
+</body>
+</html>
